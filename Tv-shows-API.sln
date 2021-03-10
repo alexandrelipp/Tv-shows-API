@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tv-shows-API", "Tv-shows-API\Tv-shows-API.csproj", "{D9A3327A-D33F-401B-A6C3-35634D0193C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{C491B779-3E7F-491B-9BE2-555D709879BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A3327A-D33F-401B-A6C3-35634D0193C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A3327A-D33F-401B-A6C3-35634D0193C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A3327A-D33F-401B-A6C3-35634D0193C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A3327A-D33F-401B-A6C3-35634D0193C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C491B779-3E7F-491B-9BE2-555D709879BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C491B779-3E7F-491B-9BE2-555D709879BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C491B779-3E7F-491B-9BE2-555D709879BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C491B779-3E7F-491B-9BE2-555D709879BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1FFA37-526B-40ED-ADBF-4D4001ABA1C6}
+	EndGlobalSection
+EndGlobal
